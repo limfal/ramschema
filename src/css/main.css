@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table, td {
+    border:1px solid rgb(202, 193, 193);
+  }
+
+h1 {
+text-align: center;
+}
+
+Input {
+    display:block;
+    width: 40ch;
+    margin: 40px auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    margin: auto auto 100px auto;
+}
+
+td, th {
+    text-align: center;
+    height: 2.5em;
+}
+
+a {
+    color: black;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+table a {
+    text-decoration: none;
+}
