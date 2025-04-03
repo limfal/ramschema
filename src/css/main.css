@@ -28,10 +28,6 @@ td, th {
     height: 2.5em;
 }
 
-a {
-    color: black;
-}
-
 .container {
     max-width: 800px;
     margin: auto;
@@ -39,4 +35,15 @@ a {
 
 table a {
     text-decoration: none;
+}
+
+th button {
+    background-color: transparent;
+    border: none;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+th button:hover {
+    cursor: pointer;
 }
